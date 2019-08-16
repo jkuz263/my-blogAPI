@@ -1,0 +1,14 @@
+C:\Users\TEMP.WINDOWS-80KFOHP.000\source\repos\BlogAPI\bin\Debug\netcoreapp2.2\BlogAPI.deps.json
+C:\Users\TEMP.WINDOWS-80KFOHP.000\source\repos\BlogAPI\bin\Debug\netcoreapp2.2\BlogAPI.runtimeconfig.json
+C:\Users\TEMP.WINDOWS-80KFOHP.000\source\repos\BlogAPI\bin\Debug\netcoreapp2.2\BlogAPI.runtimeconfig.dev.json
+C:\Users\TEMP.WINDOWS-80KFOHP.000\source\repos\BlogAPI\bin\Debug\netcoreapp2.2\BlogAPI.dll
+C:\Users\TEMP.WINDOWS-80KFOHP.000\source\repos\BlogAPI\bin\Debug\netcoreapp2.2\BlogAPI.pdb
+C:\Users\TEMP.WINDOWS-80KFOHP.000\source\repos\BlogAPI\obj\Debug\netcoreapp2.2\BlogAPI.csprojAssemblyReference.cache
+C:\Users\TEMP.WINDOWS-80KFOHP.000\source\repos\BlogAPI\obj\Debug\netcoreapp2.2\BlogAPI.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.WINDOWS-80KFOHP.000\source\repos\BlogAPI\obj\Debug\netcoreapp2.2\BlogAPI.RazorAssemblyInfo.cache
+C:\Users\TEMP.WINDOWS-80KFOHP.000\source\repos\BlogAPI\obj\Debug\netcoreapp2.2\BlogAPI.RazorAssemblyInfo.cs
+C:\Users\TEMP.WINDOWS-80KFOHP.000\source\repos\BlogAPI\obj\Debug\netcoreapp2.2\BlogAPI.AssemblyInfoInputs.cache
+C:\Users\TEMP.WINDOWS-80KFOHP.000\source\repos\BlogAPI\obj\Debug\netcoreapp2.2\BlogAPI.AssemblyInfo.cs
+C:\Users\TEMP.WINDOWS-80KFOHP.000\source\repos\BlogAPI\obj\Debug\netcoreapp2.2\BlogAPI.RazorTargetAssemblyInfo.cache
+C:\Users\TEMP.WINDOWS-80KFOHP.000\source\repos\BlogAPI\obj\Debug\netcoreapp2.2\BlogAPI.dll
+C:\Users\TEMP.WINDOWS-80KFOHP.000\source\repos\BlogAPI\obj\Debug\netcoreapp2.2\BlogAPI.pdb
